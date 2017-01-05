@@ -15,7 +15,7 @@ public class DemoObject3 : MonoBehaviour {
 	private string queryCreate = "CREATE TABLE IF NOT EXISTS test_values (id INTEGER PRIMARY KEY, str_field TEXT, blob_field BLOB);";
 	private string queryCreate2 = "CREATE TABLE IF NOT EXISTS asdasdasd (id INTEGER PRIMARY KEY, str_field TEXT, blob_field BLOB);";
 	private string queryCreate3 = "CREATE TABLE IF NOT EXISTS user2 (sno INTEGER PRIMARY KEY);";
-	private string queryKey = "PRAGMA key='0x0102030405060708090a0b0c0d0e0f10';";
+	//private string queryKey = "PRAGMA key='0x0102030405060708090a0b0c0d0e0f10';";
 	
 	
 	
