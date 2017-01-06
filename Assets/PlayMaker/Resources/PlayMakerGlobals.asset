@@ -48,6 +48,7 @@ MonoBehaviour:
   - pressed
   - paused
   - MoveTo
+  - RIGHT
 --- !u!1002 &11400001
 EditorExtensionImpl:
   serializedVersion: 6
